@@ -1,5 +1,5 @@
 # Lego_EV3_Sortierer_M-M
-Eine kleine Lego Maschine, die M&amp;M's sortiert
+Eine kleine Lego Maschine, die M&amp;M Schokoladen Linsen sortiert.
 Das ist mein Lego-Sortier Programm
 
 An dem EV3 Cube sind 
